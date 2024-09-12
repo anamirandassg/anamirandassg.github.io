@@ -1,2 +1,0 @@
-# anamirandassg.github.io
-pages
