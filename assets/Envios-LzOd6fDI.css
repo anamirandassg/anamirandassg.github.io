@@ -1,0 +1,1 @@
+.elastic_view_bx{overflow:hidden;display:grid;--cntx-show-transition: opacity .15s ease-in, grid-template-rows .2s ease-in;transition:var(--cntx-show-transition);opacity:0;grid-template-rows:0fr}.elastic_view_bx.show{--cntx-show-transition: opacity .2s ease-in, grid-template-rows .25s ease-in;opacity:1;grid-template-rows:1fr}.wrapp{min-height:0}
