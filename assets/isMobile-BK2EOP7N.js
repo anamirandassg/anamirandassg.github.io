@@ -1,0 +1,1 @@
+import{o}from"./index-nkWDr4DZ.js";function l(i){let t,e;function n(){t=setInterval(()=>{e!==window.outerWidth>460&&(e=window.outerWidth>460,i(e))},450)}return o(()=>clearInterval(t)),n}export{l as u};
