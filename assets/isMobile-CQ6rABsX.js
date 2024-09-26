@@ -1,0 +1,1 @@
+import{p as o}from"./index-D-Eshf04.js";function l(i){let t,e;function n(){t=setInterval(()=>{e!==window.outerWidth>460&&(e=window.outerWidth>460,i(e))},450)}return o(()=>clearInterval(t)),n}export{l as u};
